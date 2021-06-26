@@ -56,7 +56,7 @@ The goal of this project was to modify starter code to create an application cal
 ## Links
 
 - [GitHub Repository](https://github.com/tracye1083/Note-Taker)
-- [Deployed Application](heroku link here)
+- [Deployed Application](https://purple-note-taker.herokuapp.com/)
 
 ---
 
